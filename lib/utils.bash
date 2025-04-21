@@ -3,7 +3,7 @@
 set -euo pipefail
 
 # TODO: Ensure this is the correct GitHub homepage where releases can be downloaded for nvim-config.
-GH_REPO="https://github.com/TiagoTi/asdf-nvim-config"
+GH_REPO="https://github.com/TiagoTi/nvim-config"
 TOOL_NAME="nvim-config"
 TOOL_TEST="nvim-config --help"
 
