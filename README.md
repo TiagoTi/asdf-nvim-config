@@ -2,7 +2,7 @@
 
 # asdf-nvim-config [![Build](https://github.com/TiagoTi/asdf-nvim-config/actions/workflows/build.yml/badge.svg)](https://github.com/TiagoTi/asdf-nvim-config/actions/workflows/build.yml) [![Lint](https://github.com/TiagoTi/asdf-nvim-config/actions/workflows/lint.yml/badge.svg)](https://github.com/TiagoTi/asdf-nvim-config/actions/workflows/lint.yml)
 
-[nvim-config](https://github.com/TiagoTi/nvim-config) plugin for the [asdf version manager](https://asdf-vm.com).
+[nvim-config](https://github.com/TiagoTi/asdf-nvim-config) plugin for the [asdf version manager](https://asdf-vm.com).
 
 </div>
 
